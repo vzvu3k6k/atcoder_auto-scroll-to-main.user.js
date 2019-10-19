@@ -7,6 +7,8 @@
 // @license  CC0
 // ==/UserScript==
 
+// Example URL: https://atcoder.jp/contests/arc001/submissions/4173
+
 const main = () => {
   const container = document.getElementById('submission-code');
   if (!container) return;
